@@ -10,7 +10,7 @@ Kotlin analogue of [demoji](https://github.com/bsolomon1124/demoji) module
   
   <summary>Kotlin DSL</summary>
   
-  Add the following to the root `build.gradle.kts` file:
+  Add the following to the `build.gradle.kts` file:
 
   
   ```kotlin
